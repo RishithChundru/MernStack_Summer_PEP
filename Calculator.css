@@ -1,0 +1,22 @@
+*{
+    justify-content: center;
+}
+.num{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 5px;
+    column-gap: 5px;
+    width: 250px;
+}
+.num button{
+    padding: 10px;
+}
+#dis{
+    width: 220px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+#main{
+    border: 2px solid black;
+    padding: 25px;
+}

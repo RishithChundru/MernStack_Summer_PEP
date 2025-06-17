@@ -32,3 +32,6 @@ if(input%2==0){
 else{
     console.log("it is odd")
 }
+
+
+
